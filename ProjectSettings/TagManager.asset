@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GoldenCoin
+  - Itembox500
+  - Itembox1000
+  - Itembox1500
+  - Itembox2000
+  - Itembox2500
+  - Itembox3000
+  - Base_Red
+  - Base_Blue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - character
+  - Water
+  - UI
+  - 
+  - SolidObjects
+  - ItemBox
+  - Base
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1192394945
+    locked: 0
+  - name: Foreground
+    uniqueID: 592977787
+    locked: 0
+  - name: character
+    uniqueID: 3805885497
+    locked: 0
