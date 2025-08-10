@@ -29,3 +29,6 @@ Two teams compete in a maze-like map to collect coins, battle each other, and ca
 ![Gameplay Screenshot](screenshot2.png)
 
 
+![Gameplay Screenshot](Screenshot1.png)
+![Gameplay Screenshot 2](Screenshot2.png)
+
